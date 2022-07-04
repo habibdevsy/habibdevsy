@@ -1,2 +1,2 @@
 - 👋 Hi, I’m habib kanbar
-- 👀 I’m interested in symfony - laravel - angular - ionic and all technolgies ^_^
+- 👀 I’m interested in symfony - laravel - angular - ionic - nextjs and all technolgies ^_^
